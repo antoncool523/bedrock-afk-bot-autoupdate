@@ -8,10 +8,10 @@
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "5d11d8def1aec9ae04edb1b1802024f0afff881982d5ae744247b84b4bf8ea15"
+      "sha256": "8a8c801c9903f15bf7ed132c1aeb5ece9e26bb416d85b25a906b2b5db95a25fd"
     }
   ],
-  "notes": "Neues Logo im Ladebildschirm",
+  "notes": "Hintergrundmusik",
   "v": 1,
-  "version": "2026-11-15-5"
+  "version": "2026-11-15-6"
 }
