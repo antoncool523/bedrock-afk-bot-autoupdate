@@ -8,10 +8,10 @@
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "750e290ef8a98756005840daf561d8213e82f2fe1a1d29e8a94c5d9232d54579"
+      "sha256": "5d11d8def1aec9ae04edb1b1802024f0afff881982d5ae744247b84b4bf8ea15"
     }
   ],
-  "notes": "Neues Logo und neue Tipps",
+  "notes": "Neues Logo im Ladebildschirm",
   "v": 1,
-  "version": "2026-11-15-4"
+  "version": "2026-11-15-5"
 }
