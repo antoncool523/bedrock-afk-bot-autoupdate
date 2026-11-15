@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "0f7da7714d7452b620f38bf45fb6eba722090bae7aba02941c586230adb7067e"
+      "sha256": "99ce25c2316919469dae836df1f682e4e5d522c28395763d86094a7d7fe6e103"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "9a5ecb4d3e573903936940f5dfda64b44d685be4819fe027875481b6c29b06bf"
+      "sha256": "37caab75060f95d23eeaf8039f86ab8a02d647d54467d0ceb93ade76072c3ee4"
     }
   ],
-  "notes": "Musik entfernt",
+  "notes": "Karte mit echten Blockfarben, Fokus- und TV-Modus entfernt",
   "v": 1,
-  "version": "2026-11-15-8"
+  "version": "2026-11-16-1"
 }
