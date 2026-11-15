@@ -8,10 +8,10 @@
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "40f4f2cffe471e47993fc47f61c0f095f999d7ac4b50dbf450aa95b77949ccfd"
+      "sha256": "9a5ecb4d3e573903936940f5dfda64b44d685be4819fe027875481b6c29b06bf"
     }
   ],
-  "notes": "Offline-Ansicht",
+  "notes": "Musik entfernt",
   "v": 1,
-  "version": "2026-11-15-7"
+  "version": "2026-11-15-8"
 }
