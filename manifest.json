@@ -1,0 +1,17 @@
+{
+  "files": [
+    {
+      "enc": "bot.js.enc",
+      "name": "bot.js",
+      "sha256": "0f7da7714d7452b620f38bf45fb6eba722090bae7aba02941c586230adb7067e"
+    },
+    {
+      "enc": "index.html.enc",
+      "name": "index.html",
+      "sha256": "28eef1a6dc6db6fd6d51e020a311b3e83b9c4e853cf7876b38300df40726f7f7"
+    }
+  ],
+  "notes": "Neues Logo, Radmin-Start, Update-Anzeige",
+  "v": 1,
+  "version": "2026-11-15-3"
+}
