@@ -8,10 +8,10 @@
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "28eef1a6dc6db6fd6d51e020a311b3e83b9c4e853cf7876b38300df40726f7f7"
+      "sha256": "750e290ef8a98756005840daf561d8213e82f2fe1a1d29e8a94c5d9232d54579"
     }
   ],
-  "notes": "Neues Logo, Radmin-Start, Update-Anzeige",
+  "notes": "Neues Logo und neue Tipps",
   "v": 1,
-  "version": "2026-11-15-3"
+  "version": "2026-11-15-4"
 }
