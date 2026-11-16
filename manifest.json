@@ -3,7 +3,7 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "1b2ce86d2767ccd68e6e7eb5b25fe788f7c8b699d1d98fb3186227c83f237a97"
+      "sha256": "cddf4aaebc9d072542607256db6cffd96a752d9fde230d967468ef51c1abb0de"
     },
     {
       "enc": "index.html.enc",
@@ -11,7 +11,7 @@
       "sha256": "37caab75060f95d23eeaf8039f86ab8a02d647d54467d0ceb93ade76072c3ee4"
     }
   ],
-  "notes": "Karte: Biom-Farben (Gras, Laub, Wasser) und Sub-Chunk-Modus fuer neuere Server",
+  "notes": "Dashboard nur ueber die App, Browser werden blockiert",
   "v": 1,
-  "version": "2026-11-16-5"
+  "version": "2026-11-16-6"
 }
