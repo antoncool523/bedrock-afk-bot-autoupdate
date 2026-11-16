@@ -3,7 +3,7 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "99ce25c2316919469dae836df1f682e4e5d522c28395763d86094a7d7fe6e103"
+      "sha256": "2f15529a87c0d956e5c408c8c6e1ac0bb3a6e532ee0a2f3c01b369389bd2e1d5"
     },
     {
       "enc": "index.html.enc",
@@ -11,7 +11,7 @@
       "sha256": "37caab75060f95d23eeaf8039f86ab8a02d647d54467d0ceb93ade76072c3ee4"
     }
   ],
-  "notes": "Karte mit echten Blockfarben, Fokus- und TV-Modus entfernt",
+  "notes": "Karte: Boden statt Pflanzen, genauere Chunk-Daten",
   "v": 1,
-  "version": "2026-11-16-1"
+  "version": "2026-11-16-2"
 }
