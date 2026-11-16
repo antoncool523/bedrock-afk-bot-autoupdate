@@ -3,7 +3,7 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "a5153a5dce17f0110a1cbe8c4ff4e749ee5de9f7a7b259fbf6401029d30505d0"
+      "sha256": "ab03934efa84657b1b799ab0b75ed7cde7a8424979aa7574b2cc24d9f17b1d4e"
     },
     {
       "enc": "index.html.enc",
@@ -11,7 +11,7 @@
       "sha256": "37caab75060f95d23eeaf8039f86ab8a02d647d54467d0ceb93ade76072c3ee4"
     }
   ],
-  "notes": "Anti-AFK: läuft weiter, klickt automatisch, bestätigt AFK-Fenster des Servers",
+  "notes": "Anti-AFK wie ein echter Spieler (Kurven, Tempowechsel, Mausbewegung)",
   "v": 1,
-  "version": "2026-11-16-3"
+  "version": "2026-11-16-4"
 }
