@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "ffb0d182bfd24ca578515db15d0ba30a96712aba43d6d1d1699623dd733ad786"
+      "sha256": "09e2f89840cd0780d244df246c11ba89390279ff32b44b4875d614019d96dfbc"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "cf6cda53c936a655b418bfa26e1f5741ccfa7bfb4cad1e8b2fa2572e77c80e15"
+      "sha256": "76a606511ae50295baf3398c52cba5f59fa5b83febd5fe1990ec660674d57823"
     }
   ],
-  "notes": "Update-Status im Was-ist-neu-Fenster: Version, GitHub-Pruefung, Verlauf, App-Versionen. Knopf zeigt Update verfuegbar.",
+  "notes": "Startseite frei anpassbar: Karten verschieben, Breite aendern, ausblenden.",
   "v": 1,
-  "version": "2026-11-17-7"
+  "version": "2026-11-17-8"
 }
