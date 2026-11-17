@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "40c25b2042146b5693b13cc0aa13944fff89fd38e7da4b27a56750c14a326c89"
+      "sha256": "ffb0d182bfd24ca578515db15d0ba30a96712aba43d6d1d1699623dd733ad786"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "b826a7feb84e63ab48d8004663443053aead40e2018cc326bf5d4989e4687e46"
+      "sha256": "cf6cda53c936a655b418bfa26e1f5741ccfa7bfb4cad1e8b2fa2572e77c80e15"
     }
   ],
-  "notes": "Update-Logs kommen jetzt automatisch per Discord-Webhook, auch wenn der PC aus ist. Dazu: Was-ist-neu-Fenster im Dashboard, Karte im JourneyMap-Stil, Browser-Sperre.",
+  "notes": "Update-Status im Was-ist-neu-Fenster: Version, GitHub-Pruefung, Verlauf, App-Versionen. Knopf zeigt Update verfuegbar.",
   "v": 1,
-  "version": "2026-11-17-6"
+  "version": "2026-11-17-7"
 }
