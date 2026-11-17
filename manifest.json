@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "58a8d9e294f757228b454f1d38e29673c34845758d9d835fe116ccc364297543"
+      "sha256": "1bd35120dc1472454520e3e9cc478f86555914c05dda9552c4006d829b4c9d2c"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "37caab75060f95d23eeaf8039f86ab8a02d647d54467d0ceb93ade76072c3ee4"
+      "sha256": "8b7e936f82a5e8fd2e48bb2e78ed6ce593951490b548b2f74f50355557182ca2"
     }
   ],
-  "notes": "Ping: genaue Messung ohne Aufloesungs-Verzoegerung",
+  "notes": "Karte im JourneyMap-Stil: echte Textur-Farben, durchsichtiges Wasser, Relief an, Als Bild speichern",
   "v": 1,
-  "version": "2026-11-17-1"
+  "version": "2026-11-17-2"
 }
