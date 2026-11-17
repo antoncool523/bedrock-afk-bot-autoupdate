@@ -3,7 +3,7 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "b2058f978bd76700158a1d49d1073d2a33cc412da6bcf32db319cd4cf67311ad"
+      "sha256": "58a8d9e294f757228b454f1d38e29673c34845758d9d835fe116ccc364297543"
     },
     {
       "enc": "index.html.enc",
@@ -11,7 +11,7 @@
       "sha256": "37caab75060f95d23eeaf8039f86ab8a02d647d54467d0ceb93ade76072c3ee4"
     }
   ],
-  "notes": "Karte: findet passende Block-Tabelle automatisch (kein Grau mehr), Diagnose",
+  "notes": "Ping: genaue Messung ohne Aufloesungs-Verzoegerung",
   "v": 1,
-  "version": "2026-11-16-7"
+  "version": "2026-11-17-1"
 }
