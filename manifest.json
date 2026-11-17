@@ -3,7 +3,7 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "2a1c7fc9026bb1bdea8afd88bcc729dc4ab0671ea8640d8923147785806ddf61"
+      "sha256": "40c25b2042146b5693b13cc0aa13944fff89fd38e7da4b27a56750c14a326c89"
     },
     {
       "enc": "index.html.enc",
@@ -11,7 +11,7 @@
       "sha256": "b826a7feb84e63ab48d8004663443053aead40e2018cc326bf5d4989e4687e46"
     }
   ],
-  "notes": "Update-Meldungen ueber normalen Webhook",
+  "notes": "Update-Logs kommen jetzt automatisch per Discord-Webhook, auch wenn der PC aus ist. Dazu: Was-ist-neu-Fenster im Dashboard, Karte im JourneyMap-Stil, Browser-Sperre.",
   "v": 1,
-  "version": "2026-11-17-5"
+  "version": "2026-11-17-6"
 }
