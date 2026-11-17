@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "1bd35120dc1472454520e3e9cc478f86555914c05dda9552c4006d829b4c9d2c"
+      "sha256": "8dbb0cb8dabeca29cdc941a7b0bce2b90b51bdc73436e8df0dc3509475e3e66a"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "8b7e936f82a5e8fd2e48bb2e78ed6ce593951490b548b2f74f50355557182ca2"
+      "sha256": "f813022dc3fa9ac2f967ee35386cd6493e5c1a2638d8486c3c965d463ed3c5d4"
     }
   ],
-  "notes": "Karte im JourneyMap-Stil: echte Textur-Farben, durchsichtiges Wasser, Relief an, Als Bild speichern",
+  "notes": "Eigener Discord-Webhook fuer Update-Meldungen",
   "v": 1,
-  "version": "2026-11-17-2"
+  "version": "2026-11-17-3"
 }
