@@ -8,10 +8,10 @@
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "f813022dc3fa9ac2f967ee35386cd6493e5c1a2638d8486c3c965d463ed3c5d4"
+      "sha256": "282b05cf15b856decca2dc74a646f6ba5f15745ece14c56f9b2865e487f13882"
     }
   ],
-  "notes": "Eigener Discord-Webhook fuer Update-Meldungen",
+  "notes": "Eigener Webhook fuer Update-Meldungen",
   "v": 1,
   "version": "2026-11-17-3"
 }
