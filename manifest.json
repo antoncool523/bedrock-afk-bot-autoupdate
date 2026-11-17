@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "d4befc039ef79fafc1e6036e8b0cdf4e466e278700d456b03aaa1ec4e982a39b"
+      "sha256": "d8fc64e665f8ddf422b3b7f8dbbf1a865bae07c6b0aa610c4fa2c698b8c4e89d"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "8d127a7f4c6b90b7fdece8e944778a4dd405f544866fe66d207aed8c727f3075"
+      "sha256": "cf585f6ccd58fbf785c2934b2037442076b46cedf6a332489c21372fff333f48"
     }
   ],
-  "notes": "Status-Seite: 9 Kategorien statt 4 + neue Kacheln.",
+  "notes": "Status-Seite: 5 neue Zustände (Update läuft, Langsam, Wird beobachtet, Behoben, Unbekannt).",
   "v": 1,
-  "version": "2026-11-17-11"
+  "version": "2026-11-17-12"
 }
