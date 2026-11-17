@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "d5f13271aff9c00f6b0f9f73b52a1a419a4283145a3734b14c4dbb3b8e05b293"
+      "sha256": "d4befc039ef79fafc1e6036e8b0cdf4e466e278700d456b03aaa1ec4e982a39b"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "b9b062feebf7fd082d76e5781965b7930d9872bf8f86835be9639b91f7f6767a"
+      "sha256": "8d127a7f4c6b90b7fdece8e944778a4dd405f544866fe66d207aed8c727f3075"
     }
   ],
-  "notes": "Was-ist-neu-Knopf sitzt jetzt oben in der Kopfleiste.",
+  "notes": "Status-Seite: 9 Kategorien statt 4 + neue Kacheln.",
   "v": 1,
-  "version": "2026-11-17-10"
+  "version": "2026-11-17-11"
 }
