@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "64fa6c0d30a78fd48ec64bee637b4a2572ab081b6e0bf334d40155937c700c94"
+      "sha256": "d5f13271aff9c00f6b0f9f73b52a1a419a4283145a3734b14c4dbb3b8e05b293"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "76a606511ae50295baf3398c52cba5f59fa5b83febd5fe1990ec660674d57823"
+      "sha256": "b9b062feebf7fd082d76e5781965b7930d9872bf8f86835be9639b91f7f6767a"
     }
   ],
-  "notes": "Respawn-Knopf repariert: fasst nach und bestaetigt verzoegerte Server-Antworten.",
+  "notes": "Was-ist-neu-Knopf sitzt jetzt oben in der Kopfleiste.",
   "v": 1,
-  "version": "2026-11-17-9"
+  "version": "2026-11-17-10"
 }
