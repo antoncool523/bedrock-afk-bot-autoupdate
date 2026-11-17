@@ -3,7 +3,7 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "09e2f89840cd0780d244df246c11ba89390279ff32b44b4875d614019d96dfbc"
+      "sha256": "64fa6c0d30a78fd48ec64bee637b4a2572ab081b6e0bf334d40155937c700c94"
     },
     {
       "enc": "index.html.enc",
@@ -11,7 +11,7 @@
       "sha256": "76a606511ae50295baf3398c52cba5f59fa5b83febd5fe1990ec660674d57823"
     }
   ],
-  "notes": "Startseite frei anpassbar: Karten verschieben, Breite aendern, ausblenden.",
+  "notes": "Respawn-Knopf repariert: fasst nach und bestaetigt verzoegerte Server-Antworten.",
   "v": 1,
-  "version": "2026-11-17-8"
+  "version": "2026-11-17-9"
 }
