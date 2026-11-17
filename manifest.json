@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "8dbb0cb8dabeca29cdc941a7b0bce2b90b51bdc73436e8df0dc3509475e3e66a"
+      "sha256": "ab545d32d086dfbbd19fdaf3ad234f127a19bb03494264ac83656556706c80ef"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "282b05cf15b856decca2dc74a646f6ba5f15745ece14c56f9b2865e487f13882"
+      "sha256": "b826a7feb84e63ab48d8004663443053aead40e2018cc326bf5d4989e4687e46"
     }
   ],
-  "notes": "Eigener Webhook fuer Update-Meldungen",
+  "notes": "Was ist neu: Aenderungsprotokoll im Dashboard",
   "v": 1,
-  "version": "2026-11-17-3"
+  "version": "2026-11-17-4"
 }
