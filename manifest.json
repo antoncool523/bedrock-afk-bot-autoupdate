@@ -3,7 +3,7 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "ab545d32d086dfbbd19fdaf3ad234f127a19bb03494264ac83656556706c80ef"
+      "sha256": "2a1c7fc9026bb1bdea8afd88bcc729dc4ab0671ea8640d8923147785806ddf61"
     },
     {
       "enc": "index.html.enc",
@@ -11,7 +11,7 @@
       "sha256": "b826a7feb84e63ab48d8004663443053aead40e2018cc326bf5d4989e4687e46"
     }
   ],
-  "notes": "Was ist neu: Aenderungsprotokoll im Dashboard",
+  "notes": "Update-Meldungen ueber normalen Webhook",
   "v": 1,
-  "version": "2026-11-17-4"
+  "version": "2026-11-17-5"
 }
