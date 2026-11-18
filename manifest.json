@@ -3,7 +3,7 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "9aad6aa8a543c0f075e607041c3059dd759c21479813cc7f63034a717b67f374"
+      "sha256": "0850d388ad55dd9beada1b9c29ae4184373fd6d2dcfb2219c86d998f83480a48"
     },
     {
       "enc": "index.html.enc",
@@ -11,7 +11,7 @@
       "sha256": "5b94270094e6d9fdac9ba9d555ce88aac51d93f190d5d6944f9d9e123fadec56"
     }
   ],
-  "notes": "Karte: mehr Blockfarben wie im Spiel.",
+  "notes": "Karte: weiche Biom-Übergänge.",
   "v": 1,
-  "version": "2026-11-18-3"
+  "version": "2026-11-18-4"
 }
