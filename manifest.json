@@ -3,7 +3,7 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "ea6cd474c60ae38402a7916a6c98813abbcec919bc1242bdcdec3239eeedb697"
+      "sha256": "9ba84a0097a58f3c230957993348527f65225930ce2fdbfcadbfd2355d7bc923"
     },
     {
       "enc": "index.html.enc",
@@ -11,7 +11,7 @@
       "sha256": "5b94270094e6d9fdac9ba9d555ce88aac51d93f190d5d6944f9d9e123fadec56"
     }
   ],
-  "notes": "Status-Seite: Prozentwert pro Komponente von Hand setzen.",
+  "notes": "Karte: Blockfarben zusätzlich über Server-Blockliste (weniger grau).",
   "v": 1,
-  "version": "2026-11-18-1"
+  "version": "2026-11-18-2"
 }
