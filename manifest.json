@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "0850d388ad55dd9beada1b9c29ae4184373fd6d2dcfb2219c86d998f83480a48"
+      "sha256": "8ebe643ae89617305617b7b51066beef789d1d6d540e866126f3482b68360319"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "5b94270094e6d9fdac9ba9d555ce88aac51d93f190d5d6944f9d9e123fadec56"
+      "sha256": "ceef5600962f93c7064c84aa715518367d857b5c848ab1d87e429fac0c98e7aa"
     }
   ],
-  "notes": "Karte: weiche Biom-Übergänge.",
+  "notes": "Karte: Diagnose-Knopf.",
   "v": 1,
-  "version": "2026-11-18-4"
+  "version": "2026-11-18-5"
 }
