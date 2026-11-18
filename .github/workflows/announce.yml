@@ -11,9 +11,4 @@ jobs:
       - name: Nachricht senden
         env:
           HOOK: ${{ secrets.UPDATE_WEBHOOK }}
-        run: |
-          if [ -z "$HOOK" ]; then echo "Kein UPDATE_WEBHOOK gesetzt"; exit 0; fi
-          VER=$(jq -r .version manifest.json)
-          NOTES=$(jq -r '.notes // ""' manifest.json)
-          jq -n --arg v "$VER" --arg n "$NOTES" '{username:"AFK Bot · Updates", allowed_mentions:{parse:[]}, embeds:[{title:("🆕 Update " + $v), description:$n, color:1096065, footer:{text:"Update-Log"}, timestamp:(now|todate)}]}' > body.json
-          curl -sS -o /dev/null -w "%{http_code}\n" -H "Content-Type: application/json" -d @body.json "$HOOK"
+        run: node .github/scripts/announce.js
