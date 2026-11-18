@@ -3,7 +3,7 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "9ba84a0097a58f3c230957993348527f65225930ce2fdbfcadbfd2355d7bc923"
+      "sha256": "9aad6aa8a543c0f075e607041c3059dd759c21479813cc7f63034a717b67f374"
     },
     {
       "enc": "index.html.enc",
@@ -11,7 +11,7 @@
       "sha256": "5b94270094e6d9fdac9ba9d555ce88aac51d93f190d5d6944f9d9e123fadec56"
     }
   ],
-  "notes": "Karte: Blockfarben zusätzlich über Server-Blockliste (weniger grau).",
+  "notes": "Karte: mehr Blockfarben wie im Spiel.",
   "v": 1,
-  "version": "2026-11-18-2"
+  "version": "2026-11-18-3"
 }
