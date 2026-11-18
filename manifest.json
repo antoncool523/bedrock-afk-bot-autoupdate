@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "ca05ae468e14704efbaa49e3fcba14ed1960034a40dfb15cc749f8d10a5295bb"
+      "sha256": "a8ccc6f5efc84e5a5f5934ee5b9679fb3ca2a2a85a3698354d9280ddf58cf6a1"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "05bb133c7284638b47321ce0b8e3d272a97a1a79c5227b0792c20d3b1b437798"
+      "sha256": "30bace5d56c34129d45810626686631651a87639d1e335771e204bfe34c518a0"
     }
   ],
-  "notes": "Update-Log: neues Design im Dashboard – Zeitleiste, Kategorien (Karte, Status, Bot …), Filter, NEU/FIX-Markierung und getrennte Tabs für Änderungen und Update-Status\nDiscord-Update-Nachricht: neues Embed mit Kategorien, NEU/FIX-Markierung, Version, Datum und Anzahl der Änderungen – wird auch vom GitHub-Workflow gesendet, wenn dein PC aus ist",
+  "notes": "Status-Seite: moderner, flacher Look (Banner, Kacheln, Komponenten) und ohne Animationen – die Animations-Auswahl ist weg, nichts muss mehr gewählt werden\nWartungsbildschirm: der Live-Status ist im gleichen modernen Look, ohne Animationen, und die Legende zeigt alle 14 Zustände",
   "v": 1,
-  "version": "2026-11-18-7"
+  "version": "2026-11-18-8"
 }
