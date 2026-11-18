@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "d8fc64e665f8ddf422b3b7f8dbbf1a865bae07c6b0aa610c4fa2c698b8c4e89d"
+      "sha256": "ea6cd474c60ae38402a7916a6c98813abbcec919bc1242bdcdec3239eeedb697"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "cf585f6ccd58fbf785c2934b2037442076b46cedf6a332489c21372fff333f48"
+      "sha256": "5b94270094e6d9fdac9ba9d555ce88aac51d93f190d5d6944f9d9e123fadec56"
     }
   ],
-  "notes": "Status-Seite: 5 neue Zustände (Update läuft, Langsam, Wird beobachtet, Behoben, Unbekannt).",
+  "notes": "Status-Seite: Prozentwert pro Komponente von Hand setzen.",
   "v": 1,
-  "version": "2026-11-17-12"
+  "version": "2026-11-18-1"
 }
