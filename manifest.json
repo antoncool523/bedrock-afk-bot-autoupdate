@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "8ebe643ae89617305617b7b51066beef789d1d6d540e866126f3482b68360319"
+      "sha256": "331b516dfff287c646b40d897775a42ed9639cbeabd567c0e4e35a699cedece9"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "ceef5600962f93c7064c84aa715518367d857b5c848ab1d87e429fac0c98e7aa"
+      "sha256": "8d20b091ab93264abf466e2634681b2e5151e9642edcc1370b13cf8d4c4b2cd9"
     }
   ],
-  "notes": "Karte: Diagnose-Knopf.",
+  "notes": "Karte + Minikarte: echte Minecraft-Block-Texturen.",
   "v": 1,
-  "version": "2026-11-18-5"
+  "version": "2026-11-18-6"
 }
