@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "c1dd231a96f90d45f8fc61256a3878e71375412b14d4ebdff5b887166d517833"
+      "sha256": "0c97aa0acf879f72ed2f48067fae99bfd29b29e1da56e028a92544212f00b8b8"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "6d4ce35874d18a554882946317cfe56f522b7d15f229384df5b5394a8a1a4ec5"
+      "sha256": "9991c3f0045ca8f988f27c6bdb3ac2a0da83b48ef9209306b425cd394f3ce051"
     }
   ],
-  "notes": "Ping: Verlauf ruhig (Median, gemeinsame Messreihe, feste Skala)\nAnti-AFK: Grundstärke Normal/Stark/Extrem\nAnti-AFK: Stufe bleibt nach AFK-Kick erhalten\nAnti-AFK: Festsitz-Erkennung\nAnti-AFK: optionaler regelmäßiger Befehl",
+  "notes": "Sicherheit: keine Steuerung per Ingame-Chat mehr, nur Dashboard",
   "v": 1,
-  "version": "2026-11-19-4"
+  "version": "2026-11-19-5"
 }
