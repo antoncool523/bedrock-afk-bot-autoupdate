@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "97b2fb85ba137ee371220f98c88e1bfaef1eef4b2bd5472d49bc6a587476ff8c"
+      "sha256": "750c69af2d6a579f5322b4becc170ef1b70a9a99f69ec4afd8a3f9780fa1724b"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "d7f8f20c494a2723bfb42e82540d2610554aecf8d9eb1910094743729ee347e6"
+      "sha256": "eca47993ba3304e3a347dbe72cf90d7737c2da8baeaa99550343310cc4320101"
     }
   ],
-  "notes": "Karte: der Diagnose-Knopf enthält jetzt einen Selbsttest – Block unter und neben dem Bot (3×3 mit Höhe), damit sich prüfen lässt, ob Karte und echte Welt übereinstimmen",
+  "notes": "Karte: erkennt jetzt selbst, wenn die Block-Tabelle nicht zu deinem Server passt (vorher wurde dann still alles falsch gemalt, z. B. Gras als Kupfergitter) – sie wählt die passende Tabelle oder malt nur Blöcke, deren Namen der Server selbst nennt\nKarte: prüft, ob die Block-IDs des Servers Prüfsummen (Hash) oder fortlaufende Nummern sind, und stellt den Modus bei Bedarf um\nKarte: alte gespeicherte Karten aus früheren Karten-Ständen werden einmalig verworfen und bauen sich neu auf\nKarte: Diagnose zeigt den Abgleich der Block-Tabelle mit der Server-Liste; bei Problemen erscheint ein Hinweis über der Karte",
   "v": 1,
-  "version": "2026-11-19-1"
+  "version": "2026-11-19-2"
 }
