@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "bcb44e2c52847190be755367d172e855dc902b38349698acf97e08d506e39906"
+      "sha256": "97b2fb85ba137ee371220f98c88e1bfaef1eef4b2bd5472d49bc6a587476ff8c"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "7e37bf0f0640167736a6d9d42b5cfb904e31633224b99b744f288367f2dafcc8"
+      "sha256": "d7f8f20c494a2723bfb42e82540d2610554aecf8d9eb1910094743729ee347e6"
     }
   ],
-  "notes": "Anti-AFK: der Wächter lernt deinen Server – meldet er „AFK“, merkt sich der Bot, nach wie vielen Sekunden, und greift danach früher ein; bei hartnäckigen Servern steigt er bis Stufe 3 (längere Wege, mehr Sprünge und Klicks)\nAnti-AFK: Sicherheitsprüfung per Karte – der Bot läuft nicht mehr in Wasser, Lava, Kaktus oder von Kanten und Inseln herunter; wird er vom Server versetzt (z. B. /spawn), setzt er seinen Mittelpunkt neu\nAnti-AFK: natürlicherer Ablauf – wechselnde Stimmung, ungleichmäßige Pausen, ab und zu mehrere Aktionen hintereinander und neue Bewegungen (Umgebung prüfen, Nicken, Doppel-Ducken, Ausweichschritt, Sprint-Sprung)\nAnti-AFK: bestätigt AFK-Fenster klüger (nie „Verlassen“ oder „Lobby“, auch Eingabe-Formulare) und antwortet per Chat auf „Tippe /back“ oder „Schreibe 4821“ – nur bei Meldungen des Servers, nicht von Spielern\nDashboard: neue Karte „Anti-AFK 2.0“ bei Auto-Aktionen – Live-Countdown, Zähler, letzte Aktionen, Profile (Sanft, Standard, Stark, Maximal, Enges Gelände), „Wächter jetzt testen“ und neue Schalter",
+  "notes": "Karte: der Diagnose-Knopf enthält jetzt einen Selbsttest – Block unter und neben dem Bot (3×3 mit Höhe), damit sich prüfen lässt, ob Karte und echte Welt übereinstimmen",
   "v": 1,
-  "version": "2026-11-18-9"
+  "version": "2026-11-19-1"
 }
