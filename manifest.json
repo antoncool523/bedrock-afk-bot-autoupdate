@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "0c97aa0acf879f72ed2f48067fae99bfd29b29e1da56e028a92544212f00b8b8"
+      "sha256": "139a690d33424bb93166b52220ff30180d0190aeb23d44a1f22a2326f8114556"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "9991c3f0045ca8f988f27c6bdb3ac2a0da83b48ef9209306b425cd394f3ce051"
+      "sha256": "e5e97ec6fb9b937aeb41e704ac2e29dace8edf84e38f1178be1c19940fdb1954"
     }
   ],
-  "notes": "Sicherheit: keine Steuerung per Ingame-Chat mehr, nur Dashboard",
+  "notes": "Karte komplett entfernt (Weltkarte, Minikarte, Karte & Spur)",
   "v": 1,
-  "version": "2026-11-19-5"
+  "version": "2026-11-19-6"
 }
