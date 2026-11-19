@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "a8ccc6f5efc84e5a5f5934ee5b9679fb3ca2a2a85a3698354d9280ddf58cf6a1"
+      "sha256": "bcb44e2c52847190be755367d172e855dc902b38349698acf97e08d506e39906"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "30bace5d56c34129d45810626686631651a87639d1e335771e204bfe34c518a0"
+      "sha256": "7e37bf0f0640167736a6d9d42b5cfb904e31633224b99b744f288367f2dafcc8"
     }
   ],
-  "notes": "Status-Seite: moderner, flacher Look (Banner, Kacheln, Komponenten) und ohne Animationen – die Animations-Auswahl ist weg, nichts muss mehr gewählt werden\nWartungsbildschirm: der Live-Status ist im gleichen modernen Look, ohne Animationen, und die Legende zeigt alle 14 Zustände",
+  "notes": "Anti-AFK: der Wächter lernt deinen Server – meldet er „AFK“, merkt sich der Bot, nach wie vielen Sekunden, und greift danach früher ein; bei hartnäckigen Servern steigt er bis Stufe 3 (längere Wege, mehr Sprünge und Klicks)\nAnti-AFK: Sicherheitsprüfung per Karte – der Bot läuft nicht mehr in Wasser, Lava, Kaktus oder von Kanten und Inseln herunter; wird er vom Server versetzt (z. B. /spawn), setzt er seinen Mittelpunkt neu\nAnti-AFK: natürlicherer Ablauf – wechselnde Stimmung, ungleichmäßige Pausen, ab und zu mehrere Aktionen hintereinander und neue Bewegungen (Umgebung prüfen, Nicken, Doppel-Ducken, Ausweichschritt, Sprint-Sprung)\nAnti-AFK: bestätigt AFK-Fenster klüger (nie „Verlassen“ oder „Lobby“, auch Eingabe-Formulare) und antwortet per Chat auf „Tippe /back“ oder „Schreibe 4821“ – nur bei Meldungen des Servers, nicht von Spielern\nDashboard: neue Karte „Anti-AFK 2.0“ bei Auto-Aktionen – Live-Countdown, Zähler, letzte Aktionen, Profile (Sanft, Standard, Stark, Maximal, Enges Gelände), „Wächter jetzt testen“ und neue Schalter",
   "v": 1,
-  "version": "2026-11-18-8"
+  "version": "2026-11-18-9"
 }
