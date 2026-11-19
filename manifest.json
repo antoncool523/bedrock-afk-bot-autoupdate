@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "139a690d33424bb93166b52220ff30180d0190aeb23d44a1f22a2326f8114556"
+      "sha256": "712e5e2882ddb846712cfcaeb763207c63007eda26c598a9154cdd19dea82f5e"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "e5e97ec6fb9b937aeb41e704ac2e29dace8edf84e38f1178be1c19940fdb1954"
+      "sha256": "e0307af39f37971ccb91e28f47242d17e3b204c4934b0238ec4b1ebcfabe9738"
     }
   ],
-  "notes": "Karte komplett entfernt (Weltkarte, Minikarte, Karte & Spur)",
+  "notes": "Karte zurück: JourneyMap-Webmap einbettbar, Wegpunkte auf der Karte",
   "v": 1,
-  "version": "2026-11-19-6"
+  "version": "2026-11-19-7"
 }
