@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "99e9ef78e4e72dfe44c04f8a34c6beff1c5fd0f4837a828e8dbe9fd8d1d10896"
+      "sha256": "c1dd231a96f90d45f8fc61256a3878e71375412b14d4ebdff5b887166d517833"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "6710bc80ac15b1ef2856e84991c923f4e2ce02f2972e37985d03d8e462ddf98d"
+      "sha256": "6d4ce35874d18a554882946317cfe56f522b7d15f229384df5b5394a8a1a4ec5"
     }
   ],
-  "notes": "Karte: über der Karte stehen jetzt Block-Tabelle, ID-Modus (Hash/Index) und Erkennungsrate – so sieht man sofort, ob die Karte zum Server passt",
+  "notes": "Ping: Verlauf ruhig (Median, gemeinsame Messreihe, feste Skala)\nAnti-AFK: Grundstärke Normal/Stark/Extrem\nAnti-AFK: Stufe bleibt nach AFK-Kick erhalten\nAnti-AFK: Festsitz-Erkennung\nAnti-AFK: optionaler regelmäßiger Befehl",
   "v": 1,
-  "version": "2026-11-19-3"
+  "version": "2026-11-19-4"
 }
