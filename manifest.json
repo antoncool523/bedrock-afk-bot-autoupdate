@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "81aa331513290eb97aed3d5c4b37bd5b26de0a5cfbaff6ef54e5e4caabd08f60"
+      "sha256": "5bac907ac03f5ca75b4ccaaddaf473af639643e10bb1e08063d7fa5640deca0c"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "10d2a3fa0d517ad3425f5c2681dd935b7fea38213d3321f8ad25b16a4d7b299e"
+      "sha256": "ffda04e645b5c068ff27fde8e3f3cc5b154488882c86c1f7f0cabdbef87d375b"
     }
   ],
-  "notes": "Status-Seite: Zahlen von Hand ersetzen",
+  "notes": "Neuer Ladebildschirm",
   "v": 1,
-  "version": "2026-11-20-3"
+  "version": "2026-11-20-4"
 }
