@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "980a12543667761dbd09093645c6c10feb67ca4b434c7be6d3d92889080dc2d5"
+      "sha256": "b0cea8cf1116fc1056da1c23ac32f31b7b91d13e1aa9bc7a623b7a11d9f4441b"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "e8788c7b77bf2c63c14c65333aa51f70234525d16e705b0ab52f33eb8c9d4de9"
+      "sha256": "5cc115f99899c81501b99a027ee01b31e5fbbf7538e316a311725979c25aeeb1"
     }
   ],
-  "notes": "Karte: Tag/Nacht/Höhen, Wegpunkte, Minikarte-Zoom (JourneyMap-Funktionen eingebaut)",
+  "notes": "Karte: JourneyMap-Karten importieren (Ordner/PNG/ZIP), dauerhaft gespeichert",
   "v": 1,
-  "version": "2026-11-19-8"
+  "version": "2026-11-20-1"
 }
