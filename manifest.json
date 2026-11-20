@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "2a38a35e5d507036373c25037ab21304479770b898ce088a74696899d26c2677"
+      "sha256": "81aa331513290eb97aed3d5c4b37bd5b26de0a5cfbaff6ef54e5e4caabd08f60"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "18eeef723de9b088f8294ac493834351d04cb962b60b028e0c9f64fcad6e3380"
+      "sha256": "10d2a3fa0d517ad3425f5c2681dd935b7fea38213d3321f8ad25b16a4d7b299e"
     }
   ],
-  "notes": "Karte pixelgenau 1:1",
+  "notes": "Status-Seite: Zahlen von Hand ersetzen",
   "v": 1,
-  "version": "2026-11-20-2"
+  "version": "2026-11-20-3"
 }
