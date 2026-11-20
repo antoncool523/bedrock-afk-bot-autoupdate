@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "b0cea8cf1116fc1056da1c23ac32f31b7b91d13e1aa9bc7a623b7a11d9f4441b"
+      "sha256": "2a38a35e5d507036373c25037ab21304479770b898ce088a74696899d26c2677"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "5cc115f99899c81501b99a027ee01b31e5fbbf7538e316a311725979c25aeeb1"
+      "sha256": "18eeef723de9b088f8294ac493834351d04cb962b60b028e0c9f64fcad6e3380"
     }
   ],
-  "notes": "Karte: JourneyMap-Karten importieren (Ordner/PNG/ZIP), dauerhaft gespeichert",
+  "notes": "Karte pixelgenau 1:1",
   "v": 1,
-  "version": "2026-11-20-1"
+  "version": "2026-11-20-2"
 }
