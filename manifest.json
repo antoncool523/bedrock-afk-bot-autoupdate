@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "5bac907ac03f5ca75b4ccaaddaf473af639643e10bb1e08063d7fa5640deca0c"
+      "sha256": "731cf0bc770c6561b330fe27504b48ba85ccd8f8eaefaec796d0a6b57469f421"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "ffda04e645b5c068ff27fde8e3f3cc5b154488882c86c1f7f0cabdbef87d375b"
+      "sha256": "fa9a98256f2343e9f79ad0bcbc47c16d14ee2d3931f083fa48016cf78e02340b"
     }
   ],
-  "notes": "Neuer Ladebildschirm",
+  "notes": "Start-Verlauf überarbeitet",
   "v": 1,
-  "version": "2026-11-20-4"
+  "version": "2026-11-20-5"
 }
