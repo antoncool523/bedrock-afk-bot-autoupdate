@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "bfce81bce5ad264419b9db90f9aef13433579110baf2e4c139bdfc0772cd9169"
+      "sha256": "dbac9b475abc9b4f797ba92f6976f819e8a0b5cadbfd4058809b047ee1d4712d"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "94fd496a0806f1c015766962467322f85da62225b3dff5d90d5588aef1fae92b"
+      "sha256": "623cf6146c4c8f0706b19a67fd06064628a0e7851e1209157d613c6cb7dc1fc5"
     }
   ],
-  "notes": "CPU/RAM-Fix",
+  "notes": "Weniger CPU/GPU/RAM minimiert",
   "v": 1,
-  "version": "2026-11-20-6"
+  "version": "2026-11-21-1"
 }
