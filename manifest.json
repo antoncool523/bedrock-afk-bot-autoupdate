@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "7f5cd3d69d2e00565855fe22540347d73d858dae5176e0d8f8e43b5c56b045de"
+      "sha256": "e34f8f42bd07611fa7e2f8a9bb75c0fa42f3bfa263bab8bc57448a624c8f3e91"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "89001b3070849fc5f6ed041076aad71d1ff41f6fb5f31b0038b219dddcd725e9"
+      "sha256": "eee931c328087acfdda689a2256597a90f7dbf29ca501777c8056a4bb67105c2"
     }
   ],
-  "notes": "Weniger GPU-Last",
+  "notes": "Import-Knopf Fix",
   "v": 1,
-  "version": "2026-11-21-2"
+  "version": "2026-11-21-3"
 }
