@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "dbac9b475abc9b4f797ba92f6976f819e8a0b5cadbfd4058809b047ee1d4712d"
+      "sha256": "7f5cd3d69d2e00565855fe22540347d73d858dae5176e0d8f8e43b5c56b045de"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "623cf6146c4c8f0706b19a67fd06064628a0e7851e1209157d613c6cb7dc1fc5"
+      "sha256": "89001b3070849fc5f6ed041076aad71d1ff41f6fb5f31b0038b219dddcd725e9"
     }
   ],
-  "notes": "Weniger CPU/GPU/RAM minimiert",
+  "notes": "Weniger GPU-Last",
   "v": 1,
-  "version": "2026-11-21-1"
+  "version": "2026-11-21-2"
 }
