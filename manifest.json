@@ -3,7 +3,7 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "e34f8f42bd07611fa7e2f8a9bb75c0fa42f3bfa263bab8bc57448a624c8f3e91"
+      "sha256": "236b73ad18861af5a9a5ebaa266316a28cbc6e2a4a7eeef17fe4ab5a1387fe24"
     },
     {
       "enc": "index.html.enc",
@@ -11,7 +11,7 @@
       "sha256": "eee931c328087acfdda689a2256597a90f7dbf29ca501777c8056a4bb67105c2"
     }
   ],
-  "notes": "Import-Knopf Fix",
+  "notes": "Droppen repariert",
   "v": 1,
-  "version": "2026-11-21-3"
+  "version": "2026-11-21-4"
 }
