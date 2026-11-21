@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "236b73ad18861af5a9a5ebaa266316a28cbc6e2a4a7eeef17fe4ab5a1387fe24"
+      "sha256": "fb2c018e207d927c971f2eb501ba4eb1eaac79778771ee7b277a8279e21b6f32"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "eee931c328087acfdda689a2256597a90f7dbf29ca501777c8056a4bb67105c2"
+      "sha256": "36fa282fbdde1bad688123729309e2ca5e6b3a97bcdded422cc5b5b111d06336"
     }
   ],
-  "notes": "Droppen repariert",
+  "notes": "Import-Lag behoben",
   "v": 1,
-  "version": "2026-11-21-4"
+  "version": "2026-11-21-5"
 }
