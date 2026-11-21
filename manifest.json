@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "731cf0bc770c6561b330fe27504b48ba85ccd8f8eaefaec796d0a6b57469f421"
+      "sha256": "bfce81bce5ad264419b9db90f9aef13433579110baf2e4c139bdfc0772cd9169"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "fa9a98256f2343e9f79ad0bcbc47c16d14ee2d3931f083fa48016cf78e02340b"
+      "sha256": "94fd496a0806f1c015766962467322f85da62225b3dff5d90d5588aef1fae92b"
     }
   ],
-  "notes": "Start-Verlauf überarbeitet",
+  "notes": "CPU/RAM-Fix",
   "v": 1,
-  "version": "2026-11-20-5"
+  "version": "2026-11-20-6"
 }
