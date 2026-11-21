@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "fb2c018e207d927c971f2eb501ba4eb1eaac79778771ee7b277a8279e21b6f32"
+      "sha256": "e23d99ee9bce269262279806ec6fdf93ccf525f97830b9b0cc3f76380f7a8c67"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "36fa282fbdde1bad688123729309e2ca5e6b3a97bcdded422cc5b5b111d06336"
+      "sha256": "14691f68b9fafd18ff65521acdd376421b15f0ea6c838718c381b8562dbc5921"
     }
   ],
-  "notes": "Import-Lag behoben",
+  "notes": "Upload stoppen",
   "v": 1,
-  "version": "2026-11-21-5"
+  "version": "2026-11-21-6"
 }
