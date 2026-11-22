@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "92607146350b3de7399618403e95a719df8cb23dd77bad9ac6a5fc1e4890413e"
+      "sha256": "f6a1d6267b264cb6bd36b66fcff5939dfca38913c37a76d988e9ad4115ebc34f"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "62104a00c0433524f38450261a04f8dd34b02b06b053896b613ab8af215f0fc3"
+      "sha256": "82b29952cc3a723ef5cd3a4d2624df2eaa56c73e3493527cbe4a3baaafdd5c94"
     }
   ],
-  "notes": "Import: Zielwelt waehlen",
+  "notes": "Glas-Karten Fix",
   "v": 1,
-  "version": "2026-11-22-3"
+  "version": "2026-11-22-4"
 }
