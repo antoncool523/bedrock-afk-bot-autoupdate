@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "199375cbc11ceaa85de5464f253916ea02b9d0c50202e669ed38663d9c8aa164"
+      "sha256": "57a581d47cab11ffc2033340ad9e0a4ef2e6c854893287827d2360aaada93284"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "018e751b781afe5095754510335d761c20c38f7639761b73301b746d815d88db"
+      "sha256": "2f641250369275c62eefb9456d1fd9ace8397b6285dc7a7bafc1b16862028af1"
     }
   ],
-  "notes": "Karte bleibt erhalten",
+  "notes": "Glas-Karten Schalter repariert",
   "v": 1,
-  "version": "2026-11-22-8"
+  "version": "2026-11-22-9"
 }
