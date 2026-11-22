@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "2b118275c4d2d2ab0697a27c136554d78847043bcb135a8c997d293f2f7898ed"
+      "sha256": "af336d830952fc55c275f7a0acf73b7874e097acb73c05565977e23433c40bfe"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "daf16d5d798d7189c47d54171b590f83e281fb351ee96248c2b6f2df95830176"
+      "sha256": "ff0e01ee39170e94f0817cb615b665e6d7ad72abd3bc7e236cc65b3c6209e206"
     }
   ],
-  "notes": "Bot-Karte aus/loeschen",
+  "notes": "Mehrere Welten",
   "v": 1,
-  "version": "2026-11-22-1"
+  "version": "2026-11-22-2"
 }
