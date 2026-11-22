@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "1cce264425345d0ad3def397b23d0f2fbd779f708cf5dfcf36e0eaf4010afab1"
+      "sha256": "593f563af092eb52b6a944186449d27cbff9c16cba6d5cf32d40153eb3fd1c14"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "55760d14b7652af047f92829b2cdc6d7d48420cc4e348ca228ef474e91233d3c"
+      "sha256": "e182eaadad391dc5dc966c21a82632c0fcb386e570e2ba9e6c0d284d7a0e33fe"
     }
   ],
-  "notes": "GPU im Normalmodus gesenkt",
+  "notes": "Leerlauf-GPU Status-Ring",
   "v": 1,
-  "version": "2026-11-22-6"
+  "version": "2026-11-22-7"
 }
