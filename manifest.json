@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "57a581d47cab11ffc2033340ad9e0a4ef2e6c854893287827d2360aaada93284"
+      "sha256": "b59b94bd0777c3f1fcb73a3e18fb7d1bf0964fefbd763292679e6886752a9d46"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "2f641250369275c62eefb9456d1fd9ace8397b6285dc7a7bafc1b16862028af1"
+      "sha256": "4324a495714dd6feb88fc57c1027891eb77588689b2f1e277c1393e6d6aef9af"
     }
   ],
-  "notes": "Glas-Karten Schalter repariert",
+  "notes": "Status: mehr Auswertungen",
   "v": 1,
-  "version": "2026-11-22-9"
+  "version": "2026-11-22-10"
 }
