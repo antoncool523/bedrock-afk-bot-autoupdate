@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "593f563af092eb52b6a944186449d27cbff9c16cba6d5cf32d40153eb3fd1c14"
+      "sha256": "199375cbc11ceaa85de5464f253916ea02b9d0c50202e669ed38663d9c8aa164"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "e182eaadad391dc5dc966c21a82632c0fcb386e570e2ba9e6c0d284d7a0e33fe"
+      "sha256": "018e751b781afe5095754510335d761c20c38f7639761b73301b746d815d88db"
     }
   ],
-  "notes": "Leerlauf-GPU Status-Ring",
+  "notes": "Karte bleibt erhalten",
   "v": 1,
-  "version": "2026-11-22-7"
+  "version": "2026-11-22-8"
 }
