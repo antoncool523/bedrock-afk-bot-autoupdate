@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "7eabdb2ab3799678e523acc19b92bcf6b075f74eb4d1067e5413d299d1792aac"
+      "sha256": "1cce264425345d0ad3def397b23d0f2fbd779f708cf5dfcf36e0eaf4010afab1"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "f84a0480df07b39bde336cd7d006a3fc04f51897f95832d64a39278fd62f2473"
+      "sha256": "55760d14b7652af047f92829b2cdc6d7d48420cc4e348ca228ef474e91233d3c"
     }
   ],
-  "notes": "Normalmodus sparsam",
+  "notes": "GPU im Normalmodus gesenkt",
   "v": 1,
-  "version": "2026-11-22-5"
+  "version": "2026-11-22-6"
 }
