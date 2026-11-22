@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "af336d830952fc55c275f7a0acf73b7874e097acb73c05565977e23433c40bfe"
+      "sha256": "92607146350b3de7399618403e95a719df8cb23dd77bad9ac6a5fc1e4890413e"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "ff0e01ee39170e94f0817cb615b665e6d7ad72abd3bc7e236cc65b3c6209e206"
+      "sha256": "62104a00c0433524f38450261a04f8dd34b02b06b053896b613ab8af215f0fc3"
     }
   ],
-  "notes": "Mehrere Welten",
+  "notes": "Import: Zielwelt waehlen",
   "v": 1,
-  "version": "2026-11-22-2"
+  "version": "2026-11-22-3"
 }
