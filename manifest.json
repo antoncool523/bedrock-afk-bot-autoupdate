@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "e23d99ee9bce269262279806ec6fdf93ccf525f97830b9b0cc3f76380f7a8c67"
+      "sha256": "2b118275c4d2d2ab0697a27c136554d78847043bcb135a8c997d293f2f7898ed"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "14691f68b9fafd18ff65521acdd376421b15f0ea6c838718c381b8562dbc5921"
+      "sha256": "daf16d5d798d7189c47d54171b590f83e281fb351ee96248c2b6f2df95830176"
     }
   ],
-  "notes": "Upload stoppen",
+  "notes": "Bot-Karte aus/loeschen",
   "v": 1,
-  "version": "2026-11-21-6"
+  "version": "2026-11-22-1"
 }
