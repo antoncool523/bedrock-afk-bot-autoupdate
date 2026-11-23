@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "b59b94bd0777c3f1fcb73a3e18fb7d1bf0964fefbd763292679e6886752a9d46"
+      "sha256": "f1a9607bde866f452f79b5a8461484fe647b1108f7340b2447c7782facf5f02a"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "4324a495714dd6feb88fc57c1027891eb77588689b2f1e277c1393e6d6aef9af"
+      "sha256": "93d0a815a56707db4d6715317cb486e10863c9f3c88d767e4e99bd6602796c65"
     }
   ],
-  "notes": "Status: mehr Auswertungen",
+  "notes": "Status: 10 weitere Status-Arten",
   "v": 1,
-  "version": "2026-11-22-10"
+  "version": "2026-11-23-1"
 }
