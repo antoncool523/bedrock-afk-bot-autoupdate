@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "f1a9607bde866f452f79b5a8461484fe647b1108f7340b2447c7782facf5f02a"
+      "sha256": "4e7388135867cf327b51d49ad17bf92e3a48d9a4a87177e3ad289c6c4bb5867b"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "93d0a815a56707db4d6715317cb486e10863c9f3c88d767e4e99bd6602796c65"
+      "sha256": "9b9d505e494f6cee8d298fc60c43c3594243e32e62d1e746be64134729699a92"
     }
   ],
-  "notes": "Status: 10 weitere Status-Arten",
+  "notes": "Status: mehr Farb-Kategorien",
   "v": 1,
-  "version": "2026-11-23-1"
+  "version": "2026-11-23-2"
 }
