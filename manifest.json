@@ -3,7 +3,7 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "47df14feb734d5109b866b821b2d60626c162858167be468c9abf748c7753e9b"
+      "sha256": "4d2750504f3493043aedc041e2dca9b7db57812b1e4e028a964d881b221cabd7"
     },
     {
       "enc": "index.html.enc",
@@ -11,7 +11,7 @@
       "sha256": "183950f04e039d00d535f690a3837084535fec878462dcf522461f066296d3c2"
     }
   ],
-  "notes": "Status: Dauerhaft-Schwelle einstellbar",
+  "notes": "Telegram-Bot modernisiert",
   "v": 1,
-  "version": "2026-11-23-3"
+  "version": "2026-11-23-4"
 }
