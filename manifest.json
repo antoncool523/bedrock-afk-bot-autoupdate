@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "4d2750504f3493043aedc041e2dca9b7db57812b1e4e028a964d881b221cabd7"
+      "sha256": "d5aa34f2bcff57f3d8c3e3598e74dd62738b47b00b42089d0112a3c004d6d120"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "183950f04e039d00d535f690a3837084535fec878462dcf522461f066296d3c2"
+      "sha256": "b1e378b8eee865d9f74ad85adbd7198e9dac5095539be9851c36ceb0283375fb"
     }
   ],
-  "notes": "Telegram-Bot modernisiert",
+  "notes": "Status: Anzeige-Wert für mehrere setzen",
   "v": 1,
-  "version": "2026-11-23-4"
+  "version": "2026-11-23-5"
 }
