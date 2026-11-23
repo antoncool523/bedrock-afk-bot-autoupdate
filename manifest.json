@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "4e7388135867cf327b51d49ad17bf92e3a48d9a4a87177e3ad289c6c4bb5867b"
+      "sha256": "47df14feb734d5109b866b821b2d60626c162858167be468c9abf748c7753e9b"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "9b9d505e494f6cee8d298fc60c43c3594243e32e62d1e746be64134729699a92"
+      "sha256": "183950f04e039d00d535f690a3837084535fec878462dcf522461f066296d3c2"
     }
   ],
-  "notes": "Status: mehr Farb-Kategorien",
+  "notes": "Status: Dauerhaft-Schwelle einstellbar",
   "v": 1,
-  "version": "2026-11-23-2"
+  "version": "2026-11-23-3"
 }
