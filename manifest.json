@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "082f8d9355da5ed14bfa38f09538cb4a19c2f2f237d032a34b39f3163c53f60b"
+      "sha256": "58395689bd2ba3df26363def5340c4e2663ffca1dae48f3830ea600ad9096b85"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "c37f65fb4b539e8424b0941393b4c48e6614b9e332658eb00e0c842217184aed"
+      "sha256": "598ac847d7375b300dc19a9f9f9bc49afe8bbc098506a40d84c124c6a57c4849"
     }
   ],
-  "notes": "Ein Protokoll pro Start",
+  "notes": "Offline-Ansicht Freunde",
   "v": 1,
-  "version": "2026-11-23-8"
+  "version": "2026-11-23-9"
 }
