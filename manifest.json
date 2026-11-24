@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "bd776b7eae90596f932df80c2a5feeee0c78d6d16ac9adf14a93a3e129b2e14d"
+      "sha256": "34bd9f3625f29999e43dfee51e27c3dea44a3f707b99d7c8ba4c30d123ccb7ce"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "7513c5f2636f85312658341a9b42bdbe65ded15852b6a1c0cf50328ad6323a9b"
+      "sha256": "f5843072d7e481c8a52452098e68767f83bcdfd03713c198cdb877d056d26335"
     }
   ],
-  "notes": "Diagnose & Protokolle",
+  "notes": "Freunde-App Protokoll",
   "v": 1,
-  "version": "2026-11-23-6"
+  "version": "2026-11-23-7"
 }
