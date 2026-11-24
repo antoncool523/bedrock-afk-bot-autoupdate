@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "d5aa34f2bcff57f3d8c3e3598e74dd62738b47b00b42089d0112a3c004d6d120"
+      "sha256": "bd776b7eae90596f932df80c2a5feeee0c78d6d16ac9adf14a93a3e129b2e14d"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "b1e378b8eee865d9f74ad85adbd7198e9dac5095539be9851c36ceb0283375fb"
+      "sha256": "7513c5f2636f85312658341a9b42bdbe65ded15852b6a1c0cf50328ad6323a9b"
     }
   ],
-  "notes": "Status: Anzeige-Wert für mehrere setzen",
+  "notes": "Diagnose & Protokolle",
   "v": 1,
-  "version": "2026-11-23-5"
+  "version": "2026-11-23-6"
 }
