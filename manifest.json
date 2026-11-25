@@ -3,7 +3,7 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "2f4cd3ebd4cbbd320027289f7631a3df2607440d288a88f3a459a4d807e08fbb"
+      "sha256": "31e8953d176af4648b2633ddcd55ca82cb52ea61da9e7f9877989f1877a8d434"
     },
     {
       "enc": "index.html.enc",
@@ -11,7 +11,7 @@
       "sha256": "5290fae7e4d1bb2a3e053ba22e9d40beac9f985586538e5ad058fab143c9bc2e"
     }
   ],
-  "notes": "Updates nur fuer Admin",
+  "notes": "Admin-Aktionen versteckt",
   "v": 1,
-  "version": "2026-11-23-12"
+  "version": "2026-11-23-13"
 }
