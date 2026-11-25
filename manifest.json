@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "1a3c5f93b7759b68bbd3e817d6626f871c467d4fb9dba84704d824201e8f4616"
+      "sha256": "2f4cd3ebd4cbbd320027289f7631a3df2607440d288a88f3a459a4d807e08fbb"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "dfc112d6c179a533727e6fa69536886584e1f0d1c03570b710e0cb6063020e58"
+      "sha256": "5290fae7e4d1bb2a3e053ba22e9d40beac9f985586538e5ad058fab143c9bc2e"
     }
   ],
-  "notes": "Hand-gesteuerte oben nicht zaehlen",
+  "notes": "Updates nur fuer Admin",
   "v": 1,
-  "version": "2026-11-23-11"
+  "version": "2026-11-23-12"
 }
