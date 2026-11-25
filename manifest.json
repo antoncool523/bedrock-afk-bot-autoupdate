@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "e7bdc4f7c53403ba432d062b11e3986228b3d07c6ab8d143e6cdcef7006ea6c5"
+      "sha256": "1a3c5f93b7759b68bbd3e817d6626f871c467d4fb9dba84704d824201e8f4616"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "705d27312a2e4a7b86bd339e886234964cb47ad8a16a52172bd9932961dcb903"
+      "sha256": "dfc112d6c179a533727e6fa69536886584e1f0d1c03570b710e0cb6063020e58"
     }
   ],
-  "notes": "Kategorien minimieren + 12 neue",
+  "notes": "Hand-gesteuerte oben nicht zaehlen",
   "v": 1,
-  "version": "2026-11-23-10"
+  "version": "2026-11-23-11"
 }
