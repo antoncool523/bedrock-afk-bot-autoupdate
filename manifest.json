@@ -3,15 +3,15 @@
     {
       "enc": "bot.js.enc",
       "name": "bot.js",
-      "sha256": "2f83199e41056540a4ba315f7b786b1632a727ee4e0bb933b60356ba936bdfb2"
+      "sha256": "88c331938363afe0ab6e968a0162adcdf33c57948faae6ee8e5c2fe5042f02db"
     },
     {
       "enc": "index.html.enc",
       "name": "index.html",
-      "sha256": "87a7bcd1962b2b60a0e2cd39003178d725d263ce68554ce3a95690fd6c4e0adc"
+      "sha256": "650ed0410296730d23d25ed9fa50c615c7cbb69c4b92d2591be241af5cab4b7f"
     }
   ],
-  "notes": "Status aufgeraeumt",
+  "notes": "Neustart-Erkennung, Statistik, Tagesbericht",
   "v": 1,
-  "version": "2026-11-23-15"
+  "version": "2026-11-23-16"
 }
