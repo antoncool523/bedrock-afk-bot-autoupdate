@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.js.enc",
+      "enc": "bot.2026-11-23-17.js.enc",
       "name": "bot.js",
       "sha256": "f09577fa9ea3ce017359560436ed11728295ee4175a2d0b8794d620d936fe7e8"
     },
     {
-      "enc": "index.html.enc",
+      "enc": "index.2026-11-23-17.html.enc",
       "name": "index.html",
       "sha256": "47ad3f746309ae4f7e9e40056e0dbea83791e2a34aefcb8ced5f5533a48405b2"
     }
   ],
-  "notes": "Übersicht: Heute auf einen Blick, Pause, Stabilität",
+  "notes": "Update-Dateien mit Version im Namen (kein Cache-Fehler mehr)",
   "v": 1,
   "version": "2026-11-23-17"
 }
