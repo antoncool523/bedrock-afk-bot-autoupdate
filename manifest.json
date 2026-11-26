@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-17.js.enc",
+      "enc": "bot.2026-11-23-18.js.enc",
       "name": "bot.js",
-      "sha256": "f09577fa9ea3ce017359560436ed11728295ee4175a2d0b8794d620d936fe7e8"
+      "sha256": "ea8a016ac06a86a4d8538b9839bfbbb2cb62618d0f15aaa651f0fabb322660df"
     },
     {
-      "enc": "index.2026-11-23-17.html.enc",
+      "enc": "index.2026-11-23-18.html.enc",
       "name": "index.html",
-      "sha256": "47ad3f746309ae4f7e9e40056e0dbea83791e2a34aefcb8ced5f5533a48405b2"
+      "sha256": "5f2f925f26626747abcef1eb7959a6321279a65dc9b24df3eb163e6ef4fe9354"
     }
   ],
-  "notes": "Update-Dateien mit Version im Namen (kein Cache-Fehler mehr)",
+  "notes": "Schalter: Updates automatisch installieren",
   "v": 1,
-  "version": "2026-11-23-17"
+  "version": "2026-11-23-18"
 }
