@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-18.js.enc",
+      "enc": "bot.2026-11-23-19.js.enc",
       "name": "bot.js",
-      "sha256": "ea8a016ac06a86a4d8538b9839bfbbb2cb62618d0f15aaa651f0fabb322660df"
+      "sha256": "c25e23c80c7d1a398f26c312842f2eeeea57f6f161b8eb2904ad96ef676333ca"
     },
     {
-      "enc": "index.2026-11-23-18.html.enc",
+      "enc": "index.2026-11-23-19.html.enc",
       "name": "index.html",
-      "sha256": "5f2f925f26626747abcef1eb7959a6321279a65dc9b24df3eb163e6ef4fe9354"
+      "sha256": "0ab1773ce03b40cbd2984f76a5ce9f2d3210cfea252191815eb123452d2f684e"
     }
   ],
-  "notes": "Schalter: Updates automatisch installieren",
+  "notes": "Startseite überarbeitet (kompakter Kopfbereich, neue Reihenfolge)",
   "v": 1,
-  "version": "2026-11-23-18"
+  "version": "2026-11-23-19"
 }
