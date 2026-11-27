@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-33.js.enc",
+      "enc": "bot.2026-11-23-34.js.enc",
       "name": "bot.js",
-      "sha256": "ae875dcb4330a7041d0ce187bd32ec6b3daf090a9e1340c6b8eb37832d77da9d"
+      "sha256": "a8fbdb03ebfb447ae9973743954b760f72a7e12526ae8823d552e0130c5d2b50"
     },
     {
-      "enc": "index.2026-11-23-33.html.enc",
+      "enc": "index.2026-11-23-34.html.enc",
       "name": "index.html",
-      "sha256": "11e8de0833cfe3666dd3248e15864eb28979e3df1ee8ea7d9f464c15579112d0"
+      "sha256": "d8d38f457ff8189504405c7907e330ee1ce775c5a6ea29b65755747ffd0fba8c"
     }
   ],
-  "notes": "Sperren blockieren die ganze Seite",
+  "notes": "Freunde: Adresse-Knopf entfernt",
   "v": 1,
-  "version": "2026-11-23-33"
+  "version": "2026-11-23-34"
 }
