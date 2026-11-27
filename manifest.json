@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-34.js.enc",
+      "enc": "bot.2026-11-23-35.js.enc",
       "name": "bot.js",
-      "sha256": "a8fbdb03ebfb447ae9973743954b760f72a7e12526ae8823d552e0130c5d2b50"
+      "sha256": "4fbfe931e6b5b984d8b6653a731a08f17b2c364cb65666caea368b533db76d20"
     },
     {
-      "enc": "index.2026-11-23-34.html.enc",
+      "enc": "index.2026-11-23-35.html.enc",
       "name": "index.html",
-      "sha256": "d8d38f457ff8189504405c7907e330ee1ce775c5a6ea29b65755747ffd0fba8c"
+      "sha256": "6d91dcf03828953ff5fc45f243824e9cf3abf6d11caaadd538b857ed448ddf3b"
     }
   ],
-  "notes": "Freunde: Adresse-Knopf entfernt",
+  "notes": "Ankündigung-anzeigen-Knopf repariert",
   "v": 1,
-  "version": "2026-11-23-34"
+  "version": "2026-11-23-35"
 }
