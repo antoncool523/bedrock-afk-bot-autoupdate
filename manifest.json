@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-30.js.enc",
+      "enc": "bot.2026-11-23-31.js.enc",
       "name": "bot.js",
-      "sha256": "9a6efb9c2a4039355538907aeed387e8d131539a8a660082321c447086571526"
+      "sha256": "16467b1ac2ba08217585d7793f4b4ea39b1799550b9a4657a0b30e2656ce5747"
     },
     {
-      "enc": "index.2026-11-23-30.html.enc",
+      "enc": "index.2026-11-23-31.html.enc",
       "name": "index.html",
-      "sha256": "846d6dded65b72563d556d2036fb51f2e539cf521473817aa1760b9d7ecb64ca"
+      "sha256": "7148a80396b1076f2961e5272b898e2182bbbb9a263b58139eeef35b43813d99"
     }
   ],
-  "notes": "Status-Seite repariert",
+  "notes": "Status-Seite: Zähler bei abgeschalteten Komponenten",
   "v": 1,
-  "version": "2026-11-23-30"
+  "version": "2026-11-23-31"
 }
