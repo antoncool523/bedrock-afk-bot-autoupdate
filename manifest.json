@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-26.js.enc",
+      "enc": "bot.2026-11-23-27.js.enc",
       "name": "bot.js",
-      "sha256": "0585b2b95d82d6b1c0d6a1e31261be2ad85794d276d9eb06d0d987d25c811f62"
+      "sha256": "e38efbe91a81163cb0f2cbda9a66d23b179b6299f5eaadd14b57e67bfa2adb63"
     },
     {
-      "enc": "index.2026-11-23-26.html.enc",
+      "enc": "index.2026-11-23-27.html.enc",
       "name": "index.html",
-      "sha256": "566aa7e3da65e4124b01d817a3417456add5e2c10d10d9d5873b0de5e4700e44"
+      "sha256": "ef691d129e03b0f6291089b99798bd2709c08c34fc35ab6c7e119e9324773789"
     }
   ],
-  "notes": "Seiten und Funktionen sperren",
+  "notes": "Sperren nach Kategorien",
   "v": 1,
-  "version": "2026-11-23-26"
+  "version": "2026-11-23-27"
 }
