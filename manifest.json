@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-20.js.enc",
+      "enc": "bot.2026-11-23-21.js.enc",
       "name": "bot.js",
-      "sha256": "a8cdd3ab002e8c21fd0f71fef364a31de738cec99a6eecfc0915cb852cbed443"
+      "sha256": "4919424d699aa64a6c646852fec2f23561eb3548a2094e1d5bc610ce99d3d442"
     },
     {
-      "enc": "index.2026-11-23-20.html.enc",
+      "enc": "index.2026-11-23-21.html.enc",
       "name": "index.html",
-      "sha256": "dd119a39b383a51bf749c622512094a42be4987d474605c4407500567a1da11e"
+      "sha256": "9503692364180e9974efa7ca0cf3fbdb0611867255a49ed740af6ffe541f25e1"
     }
   ],
-  "notes": "Startseite komplett überarbeitet (Gruppen, Werkzeugleiste, neue Breiten)",
+  "notes": "Notizblock nach oben",
   "v": 1,
-  "version": "2026-11-23-20"
+  "version": "2026-11-23-21"
 }
