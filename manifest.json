@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-32.js.enc",
+      "enc": "bot.2026-11-23-33.js.enc",
       "name": "bot.js",
-      "sha256": "77a2b745c93067ac83fd4c60dd99c1b8accfcc5fa8bf5f9fbccba9728bce3a1b"
+      "sha256": "ae875dcb4330a7041d0ce187bd32ec6b3daf090a9e1340c6b8eb37832d77da9d"
     },
     {
-      "enc": "index.2026-11-23-32.html.enc",
+      "enc": "index.2026-11-23-33.html.enc",
       "name": "index.html",
-      "sha256": "e633090083e2531a76239d1aa230ed203d6ea0249c03ba10032bccec332756d4"
+      "sha256": "11e8de0833cfe3666dd3248e15864eb28979e3df1ee8ea7d9f464c15579112d0"
     }
   ],
-  "notes": "Freunde: Sperren auf Startseite, Adresse ändern",
+  "notes": "Sperren blockieren die ganze Seite",
   "v": 1,
-  "version": "2026-11-23-32"
+  "version": "2026-11-23-33"
 }
