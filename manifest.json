@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-24.js.enc",
+      "enc": "bot.2026-11-23-25.js.enc",
       "name": "bot.js",
-      "sha256": "36f2307c5c0b62e4edc41ba94de65b5d69a6ce758a6c43913878f79bca8d8fcc"
+      "sha256": "0c73fb51ce0decbfa2f7477efadac6390fd0a3d606ded11d15d897c78c29080e"
     },
     {
-      "enc": "index.2026-11-23-24.html.enc",
+      "enc": "index.2026-11-23-25.html.enc",
       "name": "index.html",
-      "sha256": "f4b6ae6c7a4b39713f9397fe463fedfd0d9246d796811a5a0b4fe1b45ad20fa5"
+      "sha256": "426dac6dac968b234051f777f0fb4aa91c7d2d9ec33723ca0b1c187b6478fe74"
     }
   ],
-  "notes": "Update-Log: weniger Kategorien",
+  "notes": "Neues Logo und Ladebildschirm",
   "v": 1,
-  "version": "2026-11-23-24"
+  "version": "2026-11-23-25"
 }
