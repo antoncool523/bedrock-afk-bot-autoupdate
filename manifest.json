@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-25.js.enc",
+      "enc": "bot.2026-11-23-26.js.enc",
       "name": "bot.js",
-      "sha256": "0c73fb51ce0decbfa2f7477efadac6390fd0a3d606ded11d15d897c78c29080e"
+      "sha256": "0585b2b95d82d6b1c0d6a1e31261be2ad85794d276d9eb06d0d987d25c811f62"
     },
     {
-      "enc": "index.2026-11-23-25.html.enc",
+      "enc": "index.2026-11-23-26.html.enc",
       "name": "index.html",
-      "sha256": "426dac6dac968b234051f777f0fb4aa91c7d2d9ec33723ca0b1c187b6478fe74"
+      "sha256": "566aa7e3da65e4124b01d817a3417456add5e2c10d10d9d5873b0de5e4700e44"
     }
   ],
-  "notes": "Neues Logo und Ladebildschirm",
+  "notes": "Seiten und Funktionen sperren",
   "v": 1,
-  "version": "2026-11-23-25"
+  "version": "2026-11-23-26"
 }
