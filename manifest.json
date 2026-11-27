@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-22.js.enc",
+      "enc": "bot.2026-11-23-23.js.enc",
       "name": "bot.js",
-      "sha256": "ab03810ba0bb0d92b933ca0fbe642f3ab5b7f36885fa3dc42e589ad35695c025"
+      "sha256": "a7a9fdd274d5628beb807b80ebf01570217155c5d84a5da7f04eef74f324c894"
     },
     {
-      "enc": "index.2026-11-23-22.html.enc",
+      "enc": "index.2026-11-23-23.html.enc",
       "name": "index.html",
-      "sha256": "e9cb5d84e6d671e71763d935e7a8d702b9c02463e60e28466a2117ddc25880a6"
+      "sha256": "9ff7877d7dbbdafd7d1131226a738e4db4c284a0eef538b6c3ed3ae8138ebbca"
     }
   ],
-  "notes": "Bericht nicht an Telegram",
+  "notes": "Startseite v2",
   "v": 1,
-  "version": "2026-11-23-22"
+  "version": "2026-11-23-23"
 }
