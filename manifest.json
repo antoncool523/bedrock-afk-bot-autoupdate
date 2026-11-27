@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-21.js.enc",
+      "enc": "bot.2026-11-23-22.js.enc",
       "name": "bot.js",
-      "sha256": "4919424d699aa64a6c646852fec2f23561eb3548a2094e1d5bc610ce99d3d442"
+      "sha256": "ab03810ba0bb0d92b933ca0fbe642f3ab5b7f36885fa3dc42e589ad35695c025"
     },
     {
-      "enc": "index.2026-11-23-21.html.enc",
+      "enc": "index.2026-11-23-22.html.enc",
       "name": "index.html",
-      "sha256": "9503692364180e9974efa7ca0cf3fbdb0611867255a49ed740af6ffe541f25e1"
+      "sha256": "e9cb5d84e6d671e71763d935e7a8d702b9c02463e60e28466a2117ddc25880a6"
     }
   ],
-  "notes": "Notizblock nach oben",
+  "notes": "Bericht nicht an Telegram",
   "v": 1,
-  "version": "2026-11-23-21"
+  "version": "2026-11-23-22"
 }
