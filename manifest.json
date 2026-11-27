@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-28.js.enc",
+      "enc": "bot.2026-11-23-29.js.enc",
       "name": "bot.js",
-      "sha256": "ca21f4e05f65c3aa389cd5b1a1562c41430883a59d040b61dd6bb6d36d4ccfed"
+      "sha256": "34c6cc7a0a7b6b7ccc5a60fc32de08802c6ae97c192369eb6a8554641ce66a84"
     },
     {
-      "enc": "index.2026-11-23-28.html.enc",
+      "enc": "index.2026-11-23-29.html.enc",
       "name": "index.html",
-      "sha256": "de467d99abab4996138006749c608cbd5260fe152bfcbcbe9e8188a16644aa43"
+      "sha256": "e03651bcd42bd2ecc099d29dbeb00dbb4007effaf49ccf033d6e299ca2746d76"
     }
   ],
-  "notes": "Startseite v3",
+  "notes": "Startseite: neue Karten",
   "v": 1,
-  "version": "2026-11-23-28"
+  "version": "2026-11-23-29"
 }
