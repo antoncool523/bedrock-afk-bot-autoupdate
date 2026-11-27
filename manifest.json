@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-27.js.enc",
+      "enc": "bot.2026-11-23-28.js.enc",
       "name": "bot.js",
-      "sha256": "e38efbe91a81163cb0f2cbda9a66d23b179b6299f5eaadd14b57e67bfa2adb63"
+      "sha256": "ca21f4e05f65c3aa389cd5b1a1562c41430883a59d040b61dd6bb6d36d4ccfed"
     },
     {
-      "enc": "index.2026-11-23-27.html.enc",
+      "enc": "index.2026-11-23-28.html.enc",
       "name": "index.html",
-      "sha256": "ef691d129e03b0f6291089b99798bd2709c08c34fc35ab6c7e119e9324773789"
+      "sha256": "de467d99abab4996138006749c608cbd5260fe152bfcbcbe9e8188a16644aa43"
     }
   ],
-  "notes": "Sperren nach Kategorien",
+  "notes": "Startseite v3",
   "v": 1,
-  "version": "2026-11-23-27"
+  "version": "2026-11-23-28"
 }
