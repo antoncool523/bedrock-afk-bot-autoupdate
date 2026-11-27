@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-23.js.enc",
+      "enc": "bot.2026-11-23-24.js.enc",
       "name": "bot.js",
-      "sha256": "a7a9fdd274d5628beb807b80ebf01570217155c5d84a5da7f04eef74f324c894"
+      "sha256": "36f2307c5c0b62e4edc41ba94de65b5d69a6ce758a6c43913878f79bca8d8fcc"
     },
     {
-      "enc": "index.2026-11-23-23.html.enc",
+      "enc": "index.2026-11-23-24.html.enc",
       "name": "index.html",
-      "sha256": "9ff7877d7dbbdafd7d1131226a738e4db4c284a0eef538b6c3ed3ae8138ebbca"
+      "sha256": "f4b6ae6c7a4b39713f9397fe463fedfd0d9246d796811a5a0b4fe1b45ad20fa5"
     }
   ],
-  "notes": "Startseite v2",
+  "notes": "Update-Log: weniger Kategorien",
   "v": 1,
-  "version": "2026-11-23-23"
+  "version": "2026-11-23-24"
 }
