@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-37.js.enc",
+      "enc": "bot.2026-11-23-38.js.enc",
       "name": "bot.js",
-      "sha256": "bb5e3b217c6bafa9580b529970a60ea138d286190dfb67c3e568f63dc0906465"
+      "sha256": "f0dfb2a3a384d47ebcc9ecdc119511c486ba8bfd05a01b613ca5c94832f39252"
     },
     {
-      "enc": "index.2026-11-23-37.html.enc",
+      "enc": "index.2026-11-23-38.html.enc",
       "name": "index.html",
-      "sha256": "a9c829e438e7a74f43fce622b29786d59eecd66a1555859ecb31e2d77b1a902e"
+      "sha256": "fb4ca0411e82a7d134f5aa30e17e5691309bbfcf2b64a499c16935ed044c2f08"
     }
   ],
-  "notes": "Layout verschieben flüssig",
+  "notes": "Anti-AFK sehr stark, Chat-Bestätigung entfernt",
   "v": 1,
-  "version": "2026-11-23-37"
+  "version": "2026-11-23-38"
 }
