@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-38.js.enc",
+      "enc": "bot.2026-11-23-39.js.enc",
       "name": "bot.js",
-      "sha256": "f0dfb2a3a384d47ebcc9ecdc119511c486ba8bfd05a01b613ca5c94832f39252"
+      "sha256": "97dc5c65e54f7e27e4f03222d94ba9eaf69b4ebb36638ea5a21cd2c532dd84af"
     },
     {
-      "enc": "index.2026-11-23-38.html.enc",
+      "enc": "index.2026-11-23-39.html.enc",
       "name": "index.html",
-      "sha256": "fb4ca0411e82a7d134f5aa30e17e5691309bbfcf2b64a499c16935ed044c2f08"
+      "sha256": "8c66610cdd1e351d4691728508e1a8f6cf41d0645fc2174542e25610dd5529b6"
     }
   ],
-  "notes": "Anti-AFK sehr stark, Chat-Bestätigung entfernt",
+  "notes": "Anti-AFK Version 3",
   "v": 1,
-  "version": "2026-11-23-38"
+  "version": "2026-11-23-39"
 }
