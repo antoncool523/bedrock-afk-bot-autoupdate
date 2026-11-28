@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-36.js.enc",
+      "enc": "bot.2026-11-23-37.js.enc",
       "name": "bot.js",
-      "sha256": "43f8566adfe3dba15182d6d2126f6d2a6e94364b2fb55d584be29672793e1985"
+      "sha256": "bb5e3b217c6bafa9580b529970a60ea138d286190dfb67c3e568f63dc0906465"
     },
     {
-      "enc": "index.2026-11-23-36.html.enc",
+      "enc": "index.2026-11-23-37.html.enc",
       "name": "index.html",
-      "sha256": "654a2a58715c6d679a5d6517194179b2c96b363460399cc65b2174dabb893096"
+      "sha256": "a9c829e438e7a74f43fce622b29786d59eecd66a1555859ecb31e2d77b1a902e"
     }
   ],
-  "notes": "Layout-Editor mit Kategorien, Admin-Panel, neue Startseiten-Karten",
+  "notes": "Layout verschieben flüssig",
   "v": 1,
-  "version": "2026-11-23-36"
+  "version": "2026-11-23-37"
 }
