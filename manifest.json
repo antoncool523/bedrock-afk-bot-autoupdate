@@ -1,17 +1,17 @@
 {
   "files": [
     {
-      "enc": "bot.2026-11-23-35.js.enc",
+      "enc": "bot.2026-11-23-36.js.enc",
       "name": "bot.js",
-      "sha256": "4fbfe931e6b5b984d8b6653a731a08f17b2c364cb65666caea368b533db76d20"
+      "sha256": "43f8566adfe3dba15182d6d2126f6d2a6e94364b2fb55d584be29672793e1985"
     },
     {
-      "enc": "index.2026-11-23-35.html.enc",
+      "enc": "index.2026-11-23-36.html.enc",
       "name": "index.html",
-      "sha256": "6d91dcf03828953ff5fc45f243824e9cf3abf6d11caaadd538b857ed448ddf3b"
+      "sha256": "654a2a58715c6d679a5d6517194179b2c96b363460399cc65b2174dabb893096"
     }
   ],
-  "notes": "Ankündigung-anzeigen-Knopf repariert",
+  "notes": "Layout-Editor mit Kategorien, Admin-Panel, neue Startseiten-Karten",
   "v": 1,
-  "version": "2026-11-23-35"
+  "version": "2026-11-23-36"
 }
